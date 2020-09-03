@@ -10,3 +10,4 @@ curl -X POST -H "Content-Type: application/json" -d '{"name":"Max"}' http://loca
 
 ## Related
 * https://dzone.com/articles/jdk-14-records-for-spring-devs
+* https://github.com/FasterXML/jackson-databind/issues/2709
