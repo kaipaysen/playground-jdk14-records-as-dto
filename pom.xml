@@ -4,7 +4,7 @@
 
 	<groupId>de.sekp</groupId>
 	<artifactId>playground.java14.records</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>Record Playground</name>
 
 	<properties>
