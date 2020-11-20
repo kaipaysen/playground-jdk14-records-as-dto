@@ -1,5 +1,6 @@
 # Example Application 
-showing howto use Java 14 Records as dtos in Spring RestController 
+Exploring howto use Java 14/15 Records as dtos in Spring RestController 
+Currently it's more or less buggy. 
 
 ## Build and Test
 ```
