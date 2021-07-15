@@ -4,17 +4,17 @@
 
 	<groupId>de.sekp</groupId>
 	<artifactId>playground.java14.records</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<name>Record Playground</name>
 
 	<properties>
-		<java.version>15</java.version>
+		<java.version>16</java.version>
 	</properties>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.4.0</version>
+		<version>2.5.2</version>
 	</parent>
 
 	<dependencies>

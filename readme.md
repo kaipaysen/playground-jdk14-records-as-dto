@@ -1,6 +1,5 @@
 # Example Application 
-Exploring howto use Java 14/15 Records as dtos in Spring RestController 
-Currently it's more or less buggy. 
+Exploring howto use Java ~~14~~/~~15~~/16 Records as DTOs in Spring RestController. 
 
 ## Build and Test
 ```

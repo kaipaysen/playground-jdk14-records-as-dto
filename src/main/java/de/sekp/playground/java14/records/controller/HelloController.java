@@ -15,17 +15,17 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
         
     public record HelloRequest(
-        String name, 
-        String zzz  // 2nd field is required by jackson
+        String name
     ) {}
 
     public record HelloResponse(
-        @JsonProperty("message") String message
+        String message,
+        String dummyPayload
     ) {}
 
     @RequestMapping(method = RequestMethod.POST)
     public HelloResponse hello(@RequestBody @Valid HelloRequest query) {
-        return new HelloResponse("Hello " + query.name());
+        return new HelloResponse("Hello " + query.name(), "Yeeeha");
     }
    
 }
