@@ -3,8 +3,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.sekp</groupId>
-	<artifactId>playground.java14.records</artifactId>
-	<version>0.0.5-SNAPSHOT</version>
+	<artifactId>playground.java17.records</artifactId>
+	<version>0.0.6-SNAPSHOT</version>
 	<name>Record Playground</name>
 
 	<properties>
